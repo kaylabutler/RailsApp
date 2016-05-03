@@ -1,28 +1,7 @@
 == README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+I'm a 25-year-old violin player and aspiring web developer in the heart of the Silicon Valley. I started playing the violin when I was five years old, and desperately wanted to be a professional musician when I grew up.
 
-Things you may want to cover:
+During my middle school years, I took a (VERY BASIC) class on web development and was intrigued. Using the very little knowledge I had, I spent countless hours on blogs coyping CSS stylesheets and creating my own layouts. This, along with a grandfather who worked as a software engineer before retirement, fueled my desire to take on web development as a hobby.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-
-
-Please feel free to use a different markup language if you do not plan to run
-<tt>rake doc:app</tt>.
+Years later, after studying violin performance in college, I realized that in order to truly be happy, I needed a career that could sustain my love for music. Working as the receptionist at an IT department at the time, I inquired about potential career paths, and discovered there was a position open for an entry-level QA tester. With the help of my employer and other fellow coworkers, I was hired full-time and my interest in becoming a web developer has only increased. 
