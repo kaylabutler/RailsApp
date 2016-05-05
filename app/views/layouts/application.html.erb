@@ -2,13 +2,26 @@
 <html>
 <head>
   <title>RailsApp</title>
-  <%= stylesheet_link_tag    'application', media: 'all', 'data-turbolinks-track' => true %>
+	<%= stylesheet_link_tag   'application', media: 'all', 'data-turbolinks-track' => true %> 
   <%= javascript_include_tag 'application', 'data-turbolinks-track' => true %>
   <%= csrf_meta_tags %>
 </head>
 <body>
+<nav>
+	<ul>
+		<li>Home</li>
+		<li>About</li>
+		<li>Contact</li>
+	</ul>
+</nav>
 
 <%= yield %>
+<%= test_variable = 42 %>
+<%= test_variable - 2 %>
+
+<footer>
+	&copy; 2016 Kayla Butler
+</footer>
 
 </body>
 </html>
